@@ -1,0 +1,60 @@
+url: https://mdinh186.github.io/
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: My Dinh
+email: mdinh6@berkeley.edu
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# # Team names, titles and social links
+# people:
+# - name: Kay Garland
+#   pic: 1
+#   position: Lead Designer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: stack-overflow
+#       url: #
+
+# - name: Larry Parker
+#   pic: 2
+#   position: Lead Marketer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: linkedin
+#       url: #
+
+# - name: Diana Petersen
+#   pic: 3
+#   position: Lead Developer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: google-plus
+#       url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/my-dinh-a62908112/
+  - title: github
+    url: https://github.com/mdinh186
+ 
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 1757 Oxford St
+  - line: Berkeley, CA 94709
+
+# Build settings
+markdown: kramdown
+permalink: pretty
